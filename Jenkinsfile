@@ -15,7 +15,7 @@ pipeline {
             
             steps {
                 
-                git branch: 'prod', url: 'https://github.com/devopshydclub/vprofile-project.git'
+                git branch: 'dev', url: 'https://github.com/devopshydclub/vprofile-project.git'
             }
         }
         
